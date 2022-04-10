@@ -37,6 +37,6 @@ npx hardhat verify --network mainnet(Replace with the network type, e.g If deplo
 
 Contact:
 
-If you got any issues contact me on rogerscott650@gmail.com
+If you got any issues contact on https://t.me/+VjA-yYTG3X1jMzdl
 
 Note: Remember not to add private keys when uploading to github
